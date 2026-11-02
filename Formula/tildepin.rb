@@ -2,7 +2,7 @@ class Tildepin < Formula
   desc "Puts the `/~ key under Esc on an ISO keyboard"
   homepage "https://github.com/indapublic/tildepin"
   url "https://github.com/indapublic/tildepin/releases/download/v1.0.0/TildePin-1.0.0.zip"
-  sha256 "PENDING_FIRST_RELEASE"
+  sha256 "5b8192aef1c76a50375a6129dc6d2de0867e620317bced4417b5d741246f382c"
   license "MIT"
   head "https://github.com/indapublic/tildepin.git", branch: "main"
 
